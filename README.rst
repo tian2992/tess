@@ -10,7 +10,7 @@ Tess originated from the GHOSTS survey (PI: Roelof de Jong), and is now being de
 In turn it was inspired by the `IDL code <http://www-astro.physics.ox.ac.uk/~mxc/software/>`_  of `Cappellari and Copin (2003) <http://adsabs.harvard.edu/abs/2003MNRAS.342..345C>`_
 Please let me know if this package is useful for you, and let me know how you're using it.
 
-The `documentation has some examples that might answer your questions. <http://http://jonathansick.github.io/tess/tess/index.html>`_
+The `documentation has some examples that might answer your questions. <http://jonathansick.github.io/tess/tess/index.html>`_
 
 
 ------------
